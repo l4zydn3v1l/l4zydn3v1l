@@ -12,10 +12,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=l4zydn3v1l&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=l4zydn3v1l&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[!![Visitor Count](https://profile-counter.glitch.me/l4zydn3v1l/count.svg)
