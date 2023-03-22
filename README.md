@@ -1,25 +1,21 @@
-<h1 align="center">Hi 👋, I'm l4zydn3v1l</h1>
-<h3 align="center">Lazy people always busy.</h3>
+# 💫 About Me:
+👀 I’m interested in programming 😍<br>😉 Trying to learn<br>😇 Muslim<br>🇧🇩 Resident of Bangladesh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l4zydn3v1l&label=Profile%20views&color=0e75b6&style=flat" alt="l4zydn3v1l" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l4zydn3v1l" alt="l4zydn3v1l" /></a> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/l4zydn3v1l) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l4zydn3v1l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/l4zydn3v1l) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/l4zydn3v1l) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/l4zydn3v1l) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/l4zydn3v1l) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@l4zydn3v1l) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=l4zydn3v1l&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=l4zydn3v1l&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=l4zydn3v1l&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👀 I’m interested in **programming 😍**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=l4zydn3v1l&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **l4zydn3v1l@gmail.com**
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
-<a href="https://fb.com/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
-<a href="https://instagram.com/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=l4zydn3v1l&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l4zydn3v1l&show_icons=true&locale=en&layout=compact" alt="l4zydn3v1l" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4zydn3v1l&show_icons=true&locale=en" alt="l4zydn3v1l" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l4zydn3v1l&" alt="l4zydn3v1l" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
