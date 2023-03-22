@@ -1,22 +1,25 @@
-<p align="center"><a href="https://github.com/l4zydn3v1l">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=l4zydn3v1l&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/l4zydn3v1l"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4zydn3v1l&layout=compact&theme=react&hide_border=true" />
-</a></p>
+<h1 align="center">Hi 👋, I'm l4zydn3v1l</h1>
+<h3 align="center">Lazy people always busy.</h3>
 
-<h2><b><i>Howdy , it's l4zydn3v1l 👋</i></b></h2>
-<b><i>Lazy people always busy.</i></b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=l4zydn3v1l&label=Profile%20views&color=0e75b6&style=flat" alt="l4zydn3v1l" /> </p>
 
-<h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
-<li> 😇 <i>Muslim</i></li>
-<li> 😐 <i>Studying at Kindergarten</i></li>
-<li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Born Single</i></li>
-<li> 🐍 <i>Trying to learn</i></li>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l4zydn3v1l" alt="l4zydn3v1l" /></a> </p>
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/l4zydn3v1l"><img width=550 src="https://github-profile-trophy.vercel.app/?username=l4zydn3v1l&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+- 👀 I’m interested in **programming 😍**
 
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/l4zydn3v1l"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=l4zydn3v1l&color=blueviolet&style=flat-square"></a>
+- 📫 How to reach me **l4zydn3v1l@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
+<a href="https://fb.com/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
+<a href="https://instagram.com/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/l4zydn3v1l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="l4zydn3v1l" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l4zydn3v1l&show_icons=true&locale=en&layout=compact" alt="l4zydn3v1l" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l4zydn3v1l&show_icons=true&locale=en" alt="l4zydn3v1l" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l4zydn3v1l&" alt="l4zydn3v1l" /></p>
