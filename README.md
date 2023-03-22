@@ -13,4 +13,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=l4zydn3v1l&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[!![Visitor Count](https://profile-counter.glitch.me/l4zydn3v1l/count.svg)
+[Visitor Count](https://profile-counter.glitch.me/l4zydn3v1l/count.svg)
