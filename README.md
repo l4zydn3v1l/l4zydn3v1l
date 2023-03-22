@@ -1,5 +1,8 @@
 # 💫 About Me:
-👀 I’m interested in programming 😍<br>😉 Trying to learn<br>😇 Muslim<br>🇧🇩 Resident of Bangladesh
+<br>😇 Muslim
+<br>🇧🇩 Resident of Bangladesh
+<br>👀 I’m interested in programming 😍
+<br>😉 Trying to learn
 
 
 ## 🌐 Socials:
